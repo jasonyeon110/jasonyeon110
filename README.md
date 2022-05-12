@@ -1,8 +1,10 @@
-### 👋 Hello~ Welcome to my Github Page
+## 👋 Hello~ Welcome to my Github Page
 
-## I'm Ji Woong Yeon! 
-
-# Looking for a Software Engineering Openings <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkakaofriends-kakao-talk-ryan-busy-nervous-gif-12170558&psig=AOvVaw2y6OIn2ToDMJARQPiDvuAT&ust=1652418295145000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjU_f2X2fcCFQAAAAAdAAAAABAD" width="50"/>
+#### I'm Ji Woong Yeon! 
+#### Looking for a Software Engineering Openings 
+<!--
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkakaofriends-kakao-talk-ryan-busy-nervous-gif-12170558&psig=AOvVaw2y6OIn2ToDMJARQPiDvuAT&ust=1652418295145000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjU_f2X2fcCFQAAAAAdAAAAABAD" width="50"/>
+-->
 
 <h2>My Tech stack </h2>
 
