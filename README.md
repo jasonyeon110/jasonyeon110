@@ -1,6 +1,6 @@
-## 👋 Hello~ Welcome to my Github Page [Still under construction]
+## 👋 Hello~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="100px" align="center">  [Still under construction]
 
-#### I'm Ji Woong Yeon! <img src="imgs/kakaotalk-ompangie.gif" width="100px" align="center">
+#### I'm Ji Woong Yeon! 
 
 #### M.S. Information Systems --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="50px" align="center"/>
 
