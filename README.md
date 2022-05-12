@@ -1,10 +1,8 @@
 ## 👋 Hello~ Welcome to my Github Page
 
-#### I'm Ji Woong Yeon! 
-#### Looking for a Software Engineering Openings 
-<!--
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fkakaofriends-kakao-talk-ryan-busy-nervous-gif-12170558&psig=AOvVaw2y6OIn2ToDMJARQPiDvuAT&ust=1652418295145000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjU_f2X2fcCFQAAAAAdAAAAABAD" width="50"/>
--->
+#### I'm Ji Woong Yeon!
+
+#### M.S. Information Systems --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="50px"/>
 
 <h2>My Tech stack </h2>
 
@@ -17,8 +15,6 @@
 ![Github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=plastic)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=plastic)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=plastic)
-
-
 
 <!--
 **jasonyeon110/jasonyeon110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
