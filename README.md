@@ -1,6 +1,6 @@
 ## 👋 Hello~ Welcome to my Github Page
 
-#### I'm Ji Woong Yeon!
+#### I'm Ji Woong Yeon! <img src="imgs/kakaotalk-ompangie.gif">
 
 #### M.S. Information Systems --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="50px"/>
 
