@@ -10,11 +10,12 @@ const ji_woong =  {
   nickName: "Jason",
   pronounce: "he" || "him",
   linkedin: "https://www.linkedin.com/in/jason-jiwoong-yeon/",
+  current_project: "Local restaurant website",
   fun_facts: {
                 sports: ["Golf", "Tennis"],
-                old-job: "Bio-Tech Scientist"
-              }
-  
+                old-job: "Bio-Tech Scientist",
+                future_plan: "Planning to participate in an Open Source Project",
+              } 
 }
 ```
 
