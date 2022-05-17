@@ -6,7 +6,7 @@
 #### Becoming --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="50px" align="center"/>
 
 ```javascript
-const ji_woong =  {
+const jiWoong =  {
   nickName: "Jason",
   pronounce: "he" || "him",
   linkedin: "https://www.linkedin.com/in/jason-jiwoong-yeon/",
