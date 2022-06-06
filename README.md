@@ -1,9 +1,9 @@
-# 👋 Hello World~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="5px" align="center"> 
+# 👋 Hello World~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="50px" align="center"> 
 
 ## I'm Ji Woong Yeon 
 
 #### M.S. Information Systems @ Northeastern University
-#### Becoming --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="25px" align="center"/>
+#### Becoming --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="50px" align="center"/>
 
 ```javascript
 const jiWoong =  {
