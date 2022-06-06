@@ -1,9 +1,18 @@
-# 👋 Hello World~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="50px" align="center"> 
+# 👋 Hello World~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="50" align="center"> 
 
 ## I'm Ji Woong Yeon 
 
 #### M.S. Information Systems @ Northeastern University
-#### Becoming --> Software Engineer <img src="imgs/kakaofriends-kakao-talk.gif" width="50px" align="center"/>
+
+#### Becoming --> Software Engineer  <img src="imgs/kakaofriends-kakao-talk.gif" width="50" align="center" />
+
+<!--
+Logo
+  ![alt text][gif]
+
+  [gif]: https://github.com/jasonyeon110/jasonyeon110/blob/main/imgs/kakaofriends-kakao-talk.gif "kakao GIF"
+
+-->
 
 ```javascript
 const jiWoong =  {
