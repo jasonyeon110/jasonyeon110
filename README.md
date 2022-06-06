@@ -1,4 +1,4 @@
-# 👋 Hello World~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="25px" align="center"> 
+# 👋 Hello World~ Welcome to my Github Page   <img src="imgs/kakaotalk-ompangie.gif" width="5px" align="center"> 
 
 ## I'm Ji Woong Yeon 
 
