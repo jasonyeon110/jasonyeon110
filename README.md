@@ -4,7 +4,7 @@
 
 #### M.S. Information Systems @ Northeastern University
 
-#### Becoming --> Software Engineer  <img src="imgs/kakaofriends-kakao-talk.gif" width="50" align="center" />
+#### Looking for --> Software Engineer Job  <img src="imgs/kakaofriends-kakao-talk.gif" width="50" align="center" />
 
 <!--
 Logo
